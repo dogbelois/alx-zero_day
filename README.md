@@ -1,2 +1,2 @@
 My first readme
-I just updated my README.md file
+I updated my README.md file
